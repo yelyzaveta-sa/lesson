@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Seite-1" id="suJzFGqc4fXeb_E-Xz__">
-    <mxGraphModel dx="1617" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1594" dy="1509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,20 +23,20 @@
             <mxPoint x="70" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-3" value="Кодекс УкраЇни" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-a7qwdZ9P-PZwPtFbG1W-2">
+        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-3" value="Кодекс законів про працю УкраЇни" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-a7qwdZ9P-PZwPtFbG1W-2">
           <mxGeometry x="-0.0222" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-a7qwdZ9P-PZwPtFbG1W-1">
+        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-130" y="-20" as="sourcePoint" />
-            <mxPoint x="-120" y="-60" as="targetPoint" />
+            <mxPoint x="-150" y="-20.42" as="sourcePoint" />
+            <mxPoint x="-10" y="-20.42" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-a7qwdZ9P-PZwPtFbG1W-5" value="Причини звільнення" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-a7qwdZ9P-PZwPtFbG1W-4">
           <mxGeometry x="-0.0033" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-10" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-a7qwdZ9P-PZwPtFbG1W-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -60,16 +60,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-12" value="&lt;span style=&quot;font-size:14.0pt;line-height:&lt;br/&gt;107%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:UK;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;UK&quot;&gt;Звільнення&lt;br/&gt;співробітника&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-12" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;Розірвання трудового договору&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-a7qwdZ9P-PZwPtFbG1W-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-a7qwdZ9P-PZwPtFbG1W-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="110" as="sourcePoint" />
+            <mxPoint x="205" y="100" as="sourcePoint" />
             <mxPoint x="220" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-14" value="Кодекс УкраЇни" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-a7qwdZ9P-PZwPtFbG1W-13">
+        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-14" value="Кодекс законів про працю УкраЇни" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-a7qwdZ9P-PZwPtFbG1W-13">
           <mxGeometry x="-0.0222" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -87,8 +87,8 @@
         </mxCell>
         <mxCell id="-a7qwdZ9P-PZwPtFbG1W-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="340" as="sourcePoint" />
-            <mxPoint x="200" y="260" as="targetPoint" />
+            <mxPoint x="204.58" y="350" as="sourcePoint" />
+            <mxPoint x="204.58" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-a7qwdZ9P-PZwPtFbG1W-18" value="Відповідальний&lt;div&gt;за персонал&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-a7qwdZ9P-PZwPtFbG1W-17">
