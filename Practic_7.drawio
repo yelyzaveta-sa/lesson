@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Seite-1" id="suJzFGqc4fXeb_E-Xz__">
-    <mxGraphModel dx="2019" dy="2055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1679" dy="1564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
         </mxCell>
         <mxCell id="-a7qwdZ9P-PZwPtFbG1W-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="370" as="sourcePoint" />
+            <mxPoint x="150" y="670" as="sourcePoint" />
             <mxPoint x="150" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -118,12 +118,22 @@
             <mxPoint x="-1" y="187" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="-a7qwdZ9P-PZwPtFbG1W-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-31" value="&lt;font&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;Обставини&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;наявні&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-a7qwdZ9P-PZwPtFbG1W-30">
+          <mxGeometry x="-0.3639" y="2" relative="1" as="geometry">
+            <mxPoint x="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-a7qwdZ9P-PZwPtFbG1W-25" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;Перевірка наявності обставин при яких дотримання двотижневого строку попередження неможливе&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="300" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-a7qwdZ9P-PZwPtFbG1W-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="519.4100000000001" y="200" as="sourcePoint" />
+            <mxPoint x="519" y="100" as="sourcePoint" />
             <mxPoint x="519.4100000000001" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -139,6 +149,50 @@
             <Array as="points">
               <mxPoint x="520" y="580" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-a7qwdZ9P-PZwPtFbG1W-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="390" as="targetPoint" />
+            <mxPoint x="620" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-34" value="&lt;font&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;Обставини не є&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;наявними&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-a7qwdZ9P-PZwPtFbG1W-33">
+          <mxGeometry x="-0.3639" y="2" relative="1" as="geometry">
+            <mxPoint x="30" y="42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-a7qwdZ9P-PZwPtFbG1W-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-40" value="&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;&lt;font&gt;Два тижні в&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;ідпрацьовані&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-a7qwdZ9P-PZwPtFbG1W-39">
+          <mxGeometry x="-0.1035" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-35" value="Відпрацювання двох тижнів" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="-a7qwdZ9P-PZwPtFbG1W-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="580" as="sourcePoint" />
+            <mxPoint x="950" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="970" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="969" y="120" as="sourcePoint" />
+            <mxPoint x="969.1700000000001" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-a7qwdZ9P-PZwPtFbG1W-38" value="Останні завдання перед звільненням" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-a7qwdZ9P-PZwPtFbG1W-37">
+          <mxGeometry x="-0.0222" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
