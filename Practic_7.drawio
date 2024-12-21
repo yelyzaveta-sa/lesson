@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Seite-1" id="suJzFGqc4fXeb_E-Xz__">
-    <mxGraphModel dx="1917" dy="1242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4219" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -305,18 +305,18 @@
             <mxPoint x="-10" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pb-5K_6aPZcREWyY2png-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pb-5K_6aPZcREWyY2png-10">
+        <mxCell id="Pb-5K_6aPZcREWyY2png-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pb-5K_6aPZcREWyY2png-10" target="Pb-5K_6aPZcREWyY2png-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2250" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pb-5K_6aPZcREWyY2png-9" value="&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgb(251, 251, 251); line-height: 100%;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Розірваний трудовий договір&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pb-5K_6aPZcREWyY2png-8">
+        <mxCell id="Pb-5K_6aPZcREWyY2png-9" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;Нарахована зарплатня&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pb-5K_6aPZcREWyY2png-8">
           <mxGeometry x="-0.0625" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pb-5K_6aPZcREWyY2png-10" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;Нарахування зарплатні за останній місяць роботи&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="790" width="140" height="70" as="geometry" />
+          <mxGeometry x="1950" y="790" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Pb-5K_6aPZcREWyY2png-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -329,25 +329,149 @@
             <mxPoint x="2" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pb-5K_6aPZcREWyY2png-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Pb-5K_6aPZcREWyY2png-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Pb-5K_6aPZcREWyY2png-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1810" y="825" as="sourcePoint" />
+            <mxPoint x="1730" y="825" as="sourcePoint" />
             <mxPoint x="1960" y="825" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pb-5K_6aPZcREWyY2png-14" value="Причини звільнення" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pb-5K_6aPZcREWyY2png-13">
-          <mxGeometry x="-0.0033" y="2" relative="1" as="geometry">
+        <mxCell id="Pb-5K_6aPZcREWyY2png-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pb-5K_6aPZcREWyY2png-15" target="Pb-5K_6aPZcREWyY2png-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-27" value="&lt;div&gt;Кількість&lt;/div&gt;&lt;div&gt;невикористаних днів&lt;/div&gt;&lt;div&gt;щорічної відпустки&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pb-5K_6aPZcREWyY2png-26">
+          <mxGeometry x="-0.0794" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pb-5K_6aPZcREWyY2png-15" value="Визначення кількості невикористаних днів щорічної відпустки та інших компенсацій" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2310" y="930" width="140" height="70" as="geometry" />
+          <mxGeometry x="2280" y="890" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pb-5K_6aPZcREWyY2png-16" target="Pb-5K_6aPZcREWyY2png-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-29" value="&lt;div&gt;Нарахована&lt;/div&gt;&lt;div&gt;компенсація за&lt;/div&gt;&lt;div&gt;невикористані&lt;/div&gt;&lt;div&gt;дні відпусток&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pb-5K_6aPZcREWyY2png-28">
+          <mxGeometry x="0.0007" y="4" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Pb-5K_6aPZcREWyY2png-16" value="Нарахування компенсації за невикористані дні відпусток" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2530" y="1020" width="140" height="70" as="geometry" />
+          <mxGeometry x="2570" y="980" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Pb-5K_6aPZcREWyY2png-17" value="Нарахування вихідної допомоги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2700" y="1100" width="140" height="70" as="geometry" />
+          <mxGeometry x="2853" y="1050" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-18" value="Відповідальний&lt;div&gt;за персонал&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1990" y="1370.0022222222226" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-19" value="Працівник якого&lt;div&gt;звільнюють&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2050" y="1330.0022222222226" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Pb-5K_6aPZcREWyY2png-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2160" y="1140" as="sourcePoint" />
+            <mxPoint x="2600" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2605" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2670" y="1280" as="sourcePoint" />
+            <mxPoint x="2950" y="1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2950" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2580" y="1140" as="sourcePoint" />
+            <mxPoint x="2900" y="1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2900" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-25" value="Банківський рахунок фірми/закладу" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1840" y="820.0028571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3103" y="1084.41" as="targetPoint" />
+            <mxPoint x="2993" y="1084.41" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-31" value="Звільнений&lt;div&gt;співробітник&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pb-5K_6aPZcREWyY2png-30">
+          <mxGeometry x="-0.0625" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Pb-5K_6aPZcREWyY2png-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1990" y="1140" as="sourcePoint" />
+            <mxPoint x="2315" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2315" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Pb-5K_6aPZcREWyY2png-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1990" y="1400" as="sourcePoint" />
+            <mxPoint x="1920" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2050" y="1400" as="sourcePoint" />
+            <mxPoint x="2050" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Pb-5K_6aPZcREWyY2png-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2380" y="1280" as="sourcePoint" />
+            <mxPoint x="2680" y="1130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2675" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Pb-5K_6aPZcREWyY2png-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2050" y="1280" as="sourcePoint" />
+            <mxPoint x="2400" y="1090" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2385" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Pb-5K_6aPZcREWyY2png-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2030" y="710" as="sourcePoint" />
+            <mxPoint x="2770" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2923" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Pb-5K_6aPZcREWyY2png-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2030" y="710" as="sourcePoint" />
+            <mxPoint x="2933" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2640" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pb-5K_6aPZcREWyY2png-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2030" y="710" as="sourcePoint" />
+            <mxPoint x="2350" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2350" y="710" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
